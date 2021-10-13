@@ -1,2 +1,1 @@
-Cranbrook TS buses for MonTransit.
-Schedule. Alerts. News.
+Cranbrook TS buses for MonTransit. Schedule. Alerts. News.
