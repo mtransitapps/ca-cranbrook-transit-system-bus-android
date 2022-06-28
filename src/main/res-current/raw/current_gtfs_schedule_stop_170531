@@ -1,3 +1,4 @@
-'EKT2205-2205CRA-Saturday-90',101,112200,,'',10000,,'',10000,,'',10000,,'',20000,,''
-'EKT2205-2205CRA-Sunday-00',101,110700,,'',10000,,'',21500,,'',10000,,'',10000,,''
-'EKT2205-2205CRA-Weekday-90',101,74900,,'',17300,,'',10000,,'',20000,,'',10000,,'',10000,,'',20000,,''
+'EKT2205-2205CRA-Saturday-90',101,112200,0,'Walmart',10000,0,'Walmart',10000,0,'Walmart',10000,0,'Walmart',20000,0,'Walmart'
+'EKT2205-2205CRA-Sunday-00',101,110700,0,'Walmart',10000,0,'Walmart',21500,0,'Walmart',10000,0,'Walmart',10000,0,'Walmart'
+'EKT2205-2205CRA-Weekday-90',101,74900,0,'Walmart',17300,0,'Walmart',10000,0,'Walmart',20000,0,'Walmart',10000,0,'Walmart',10000,0,'Walmart',20000,0,'Walmart'
+'EKT2205-2205CRA-Weekday-91',101,74900,0,'Walmart',17300,0,'Walmart',10000,0,'Walmart',20000,0,'Walmart',10000,0,'Walmart',10000,0,'Walmart',20000,0,'Walmart'
