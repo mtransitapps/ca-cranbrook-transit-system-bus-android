@@ -1,12 +1,12 @@
-1,'1','Tamarack','0D4C85'
-2,'2','Highlands','86C636'
-3,'3','Third Avenue','F18021'
-4,'4','Slaterville','03A14D'
-5,'5','College','FECE0E'
-7,'7','7th - 11th Avenue','27A8DD'
-14,'14','14th Avenue','E91A8B'
-22,'22','KC Commuter','8DCD3E'
-23,'23','Ski Shuttle (Downtown To Kimberley Alpine Resort)','F68B1F'
-31,'31','South Connector','014A8C'
-32,'32','North Connector','8DCD3E'
-41,'41','Fernie / Sparwood / Elkford','014A8C'
+1,'1','Tamarack','0D4C85',1298803235,3
+2,'2','Highlands','86C636',-498148124,3
+3,'3','Third Avenue','F18021',1999867813,3
+4,'4','Slaterville','03A14D',202916454,3
+5,'5','College','FECE0E',-1594034905,3
+7,'7','7th - 11th Avenue','27A8DD',-892970327,3
+14,'14','14th Avenue','E91A8B',-2061964907,3
+22,'22','KC Commuter','8DCD3E',1661020530,3
+23,'23','Ski Shuttle (Downtown To Kimberley Alpine Resort)','F68B1F',-135930829,3
+31,'31','South Connector','014A8C',-707912688,3
+32,'32','North Connector','8DCD3E',1790103249,3
+41,'41','Fernie / Sparwood / Elkford','014A8C',-578829969,3
