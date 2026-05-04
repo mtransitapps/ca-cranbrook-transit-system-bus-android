@@ -20,7 +20,7 @@
         <item>Cranbrook</item>
         <item>Elk Valley</item>
         <item>Kimberley</item>
-        <item>@string/parent_agency_name</item>
+        <item>@string/parent_agency_short_name</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
         <item>https://www.bctransit.com/columbia-valley/news/</item>
@@ -41,7 +41,7 @@
         <item />
         <item />
         <item />
-        <item>@string/parent_agency_short_name</item>
+        <item>@string/parent_agency_color</item>
     </string-array>
     <integer-array name="rss_feeds_severity">
         <item>@integer/news_provider_severity_info_agency</item>
