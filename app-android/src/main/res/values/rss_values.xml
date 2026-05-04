@@ -41,7 +41,7 @@
         <item />
         <item />
         <item />
-        <item>@string/parent_agency_color</item>
+        <item>@string/parent_agency_short_name</item>
     </string-array>
     <integer-array name="rss_feeds_severity">
         <item>@integer/news_provider_severity_info_agency</item>
