@@ -1,7 +1,13 @@
 1,'1','Tamarack','004B8D',49,3
 2,'2','Highlands','8CC63F',50,3
-3,'3','Third Avenue','F37421',51,3
+3,'3','3rd Avenue','F37421',51,3
 4,'4','Slaterville','00AA4F',52,3
 5,'5','College','FCAF17',53,3
 7,'7','7th - 11th Avenue','00AEEF',55,3
 14,'14','14th Avenue','ED1D8F',1571,3
+22,'22','KC Commuter','8CC63F',1600,3
+23,'23','Ski Shuttle (Downtown To Kimberley Alpine Resort)','F37421',1601,3
+31,'31','South Connector','004B8D',1630,3
+32,'32','North Connector','8CC63F',1631,3
+33,'33','Invermere Local','F37421',1632,3
+41,'41','Fernie / Sparwood / Elkford','004B8D',1661,3
